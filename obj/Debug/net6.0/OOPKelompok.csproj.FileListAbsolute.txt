@@ -1,0 +1,15 @@
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\bin\Debug\net6.0\OOPKelompok.exe
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\bin\Debug\net6.0\OOPKelompok.deps.json
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\bin\Debug\net6.0\OOPKelompok.runtimeconfig.json
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\bin\Debug\net6.0\OOPKelompok.dll
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\bin\Debug\net6.0\OOPKelompok.pdb
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\obj\Debug\net6.0\OOPKelompok.csproj.AssemblyReference.cache
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\obj\Debug\net6.0\OOPKelompok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\obj\Debug\net6.0\OOPKelompok.AssemblyInfoInputs.cache
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\obj\Debug\net6.0\OOPKelompok.AssemblyInfo.cs
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\obj\Debug\net6.0\OOPKelompok.csproj.CoreCompileInputs.cache
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\obj\Debug\net6.0\OOPKelompok.dll
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\obj\Debug\net6.0\refint\OOPKelompok.dll
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\obj\Debug\net6.0\OOPKelompok.pdb
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\obj\Debug\net6.0\OOPKelompok.genruntimeconfig.cache
+C:\Users\gamax\source\repos\OOPKelompok\OOPKelompok\obj\Debug\net6.0\ref\OOPKelompok.dll
